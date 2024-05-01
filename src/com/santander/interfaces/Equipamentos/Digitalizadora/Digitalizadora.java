@@ -1,6 +1,8 @@
 package com.santander.interfaces.Equipamentos.Digitalizadora;
 
-public class Digitalizadora {
+public interface Digitalizadora {
+
+    public void digitaliza();
 }
 
 
