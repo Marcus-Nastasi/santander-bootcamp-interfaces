@@ -1,6 +1,8 @@
 package com.santander.interfaces.Equipamentos.Impressora;
 
-public class Impressora {
+public interface Impressora {
+
+    public void imprime();
 }
 
 
