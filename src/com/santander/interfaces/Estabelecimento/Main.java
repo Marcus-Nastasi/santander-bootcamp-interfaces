@@ -1,4 +1,4 @@
-package com.santander.interfaces;
+package com.santander.interfaces.Estabelecimento;
 
 public class Main {
 

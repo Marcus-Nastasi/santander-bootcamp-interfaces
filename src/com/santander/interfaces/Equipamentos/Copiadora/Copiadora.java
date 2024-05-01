@@ -1,6 +1,8 @@
 package com.santander.interfaces.Equipamentos.Copiadora;
 
-public class Copiadora {
+public interface Copiadora {
+
+    public void copiar();
 }
 
 
