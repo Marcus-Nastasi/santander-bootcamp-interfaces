@@ -8,17 +8,18 @@ public class EquipamentoMultifunc implements Impressora, Copiadora, Digitalizado
 
     @Override
     public void copiar() {
-
+        System.out.println("Copiando via equipamento multifuncional...");
     }
 
     @Override
     public void digitaliza() {
+        System.out.println("Digitalizando via equipamento multifuncional...");
 
     }
 
     @Override
     public void imprime() {
-
+        System.out.println("Imprimindo via equipamento multifuncional...");
     }
 }
 
