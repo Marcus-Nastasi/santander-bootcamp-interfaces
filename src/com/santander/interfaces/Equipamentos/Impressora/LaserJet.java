@@ -7,3 +7,4 @@ public class LaserJet implements Impressora {
         System.out.println("Imprimindo na LaserJet...");
     }
 }
+
